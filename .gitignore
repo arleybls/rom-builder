@@ -1,0 +1,6 @@
+/build/
+/build_codex_check/
+/.idea/
+*.pdb
+/Sandbox/
+build.lnk
