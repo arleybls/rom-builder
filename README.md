@@ -5,6 +5,8 @@ programmable memory ICs (EPROM / EEPROM / NOR flash), aimed at retro-computing
 projects. Take individual ROM dumps, lay them out into banks on a target chip,
 and export a single binary ready to program.
 
+![ROM Builder screenshot](images/screen.png)
+
 Built in Rust with [`eframe`/`egui`](https://github.com/emilk/egui).
 
 ## Features
